@@ -8,4 +8,4 @@ A simple tool to encode URL.
 `go get -u github.com/fredyw/urlenoder`
 
 ### Usage
-`urlencoder <string to encode>`
+`./urlencoder <string to encode>`
